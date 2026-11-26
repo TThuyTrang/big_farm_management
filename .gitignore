@@ -1,0 +1,16 @@
+﻿.venv/
+__pycache__/
+*.pyc
+data_goc/
+data/data_pig_det_final/
+data/data_cat_lung_tinh_kg/
+data/data_posture_final_ok_final/_roboflow/
+data/data_posture_final_ok_final/_ung_vien/
+data/data_posture_final_ok_final/_chia_batch/
+data/data_posture_final_ok_final/_test_box/
+data/data_posture_final_ok_final/_soat_20_anh/
+data/data_posture_final_ok_final/train/
+data/data_posture_final_ok_final/val/
+data/data_posture_final_ok_final/test/
+runs/
+*.zip

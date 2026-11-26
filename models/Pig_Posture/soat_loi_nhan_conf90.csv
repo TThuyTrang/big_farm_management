@@ -1,0 +1,6 @@
+file,split,true_label,pred_label,p_dung,p_khong_dung,confidence,is_correct,nguon,trai,nhom,dem,sat_mep,muc_chen,iou_max,kho
+pigdetect_alameer_alameer_Pen2_201912030930GP013839-0000010000_jpg.rf.f66bc83dffafcae47cfb6bf9e80c09ca_h6.jpg,val,dung,khong_dung,0.00037136898026801646,0.9996286630630493,0.9996286630630493,0,pigdetect,alameer,alameer_clip_0008,0,0,tach_roi,0.037,0
+pigdetect_psota_psota_000000607_h1.jpg,val,dung,khong_dung,0.08368665724992752,0.9163133502006531,0.9163133502006531,0,pigdetect,psota,psota_block_0004,0,1,tach_roi,0.0,0
+pigdetect_psota_psota_000001703_h5.jpg,val,dung,khong_dung,0.003090718761086464,0.9969093203544617,0.9969093203544617,0,pigdetect,psota,psota_block_0014,0,0,tach_roi,0.0701,0
+pigdetect_alameer_alameer_2016_02_07__07_15_47_-824--0000000500_jpg.rf.137d86f638caf82da4611a92233414b0_h0.jpg,val,khong_dung,dung,0.9984837174415588,0.0015162815107032657,0.9984837174415588,0,pigdetect,alameer,alameer_2016_02_07__07_15_47_-824,1,0,tach_roi,0.0,0
+pigdetect_alameer_alameer_2016_10_20__00_01_26_-837--0000597500_jpg.rf.4ab590782a7c9b82e327d7d1764b65a8_h0.jpg,test,dung,khong_dung,0.04728193208575249,0.9527180194854736,0.9527180194854736,0,pigdetect,alameer,alameer_2016_10_20__00_01_26_-837,1,0,sat_nhau,0.1269,0
